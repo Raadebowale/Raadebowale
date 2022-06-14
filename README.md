@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raadebowale
-- 👀 I’m interested in UI/UX design and SEO
-- 🌱 I’m currently learning SEO
-- 💞️ I’m looking to collaborate on SEO
+- 👀 I’m interested in Javascript, Flutter and SEO
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me raadebowale@gmail.com
 - My Website https://afrohunt.com
 
