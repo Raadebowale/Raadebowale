@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raadebowale
-- 👀 I’m interested in Javascript, Flutter and SEO
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript
+- 👀 I’m interested in Javascript, React JS, HTML, CSS and SEO
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on Front-End Project
 - 📫 How to reach me raadebowale@gmail.com
 - My Website https://afrohunt.com
 
